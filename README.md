@@ -7,3 +7,4 @@
 <img width="1582" height="964" alt="Screenshot 2026-04-26 at 12 53 25 PM" src="https://github.com/user-attachments/assets/ca339c85-a38d-40e0-a952-2c317c8109e6" />
 <img width="1582" height="964" alt="Screenshot 2026-04-26 at 12 53 17 PM" src="https://github.com/user-attachments/assets/6b3ec77f-af33-47e4-ab09-7cb3dff2c0b0" />
 <img width="1582" height="964" alt="Screenshot 2026-04-26 at 12 53 12 PM" src="https://github.com/user-attachments/assets/27b9ee09-4269-4599-98d9-1af9609bc848" />
+https://f-reestream.netlify.app/
