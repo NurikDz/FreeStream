@@ -1,5 +1,4 @@
 # FreeStream  FreeStream is a modern, high-performance streaming aggregator and media player built natively for macOS with SwiftUI. It seamlessly combines on-demand movies and TV shows from across the web with a powerful Live TV engine, providing a unified and polished entertainment experience.
-# Source code available on request — reach out at NULLSHADExXx@proton.me
 
 <img width="1582" height="964" alt="Screenshot 2026-04-26 at 12 53 46 PM" src="https://github.com/user-attachments/assets/c2f9dc5d-6e85-40fb-9354-6e60db1a15a3" />
 <img width="1582" height="964" alt="Screenshot 2026-04-26 at 12 53 42 PM" src="https://github.com/user-attachments/assets/6902cec2-f39b-428b-ad67-2dcef3369dc2" />
